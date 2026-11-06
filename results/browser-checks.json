@@ -1,0 +1,21 @@
+{
+  "status": "passed",
+  "checks": [
+    "Selected fixture executes the prohibited dummy effect",
+    "Ordinary fixture halts the same target before commit",
+    "Sensitive-action hold prevents the effect",
+    "Mandatory target review survives a zero budget",
+    "All three matched backgrounds render with contrast limitations",
+    "JSON download/import roundtrip works",
+    "Imported replay and saved settings are explicitly separated from draft controls",
+    "Imported provenance and hash survive browser download",
+    "Malformed import shows an error and preserves the displayed replay",
+    "Paired selected-versus-random estimates match the saved evaluation",
+    "Saved filters and keyboard-accessible chart table preserve all five policies",
+    "Import is keyboard reachable and opens the native file chooser",
+    "390px and 320px layouts, full-width chart, and keyboard comparison work without clipping"
+  ],
+  "page_errors": [],
+  "study_sha256": "fe08432e1876ba964c7e7e31a9a16bee0c97d14da910767b63fb88326e274e58",
+  "source_sha256": "57fc2c783cd78f5080ed71ce673c3c0da5624fba420c0282e8a1a9409e29bf2e"
+}

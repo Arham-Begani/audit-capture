@@ -1,0 +1,5 @@
+pytest>=8,<10
+playwright>=1.50,<2
+reportlab==4.4.3
+matplotlib>=3.8,<4
+pypdf>=5,<7

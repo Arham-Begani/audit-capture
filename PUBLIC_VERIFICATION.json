@@ -1,0 +1,27 @@
+{
+  "verified_utc": "2026-11-06T20:22:19.296606+00:00",
+  "status": "passed",
+  "source_sha256": "57fc2c783cd78f5080ed71ce673c3c0da5624fba420c0282e8a1a9409e29bf2e",
+  "tests": {
+    "tests": 148,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "browser_checks": 13,
+  "design_checks": 16,
+  "exact_cells": 1600,
+  "deterministic_checks": 640,
+  "uniform_boundary_checks": 21,
+  "page_errors": [],
+  "raw_test_xml_sha256": "b51823e8b137643a5c6f64db53a5cf21dbe0c7e7060829409a6e6e1a567f4c6f",
+  "raw_test_xml_disclosure": "Retained locally; omitted from public copy because pytest embeds machine metadata. Counts above are extracted from the executed XML.",
+  "initial_fresh_copy_attempt": {
+    "passed": 132,
+    "setup_errors": 16,
+    "cause": "Missing tmp parent; fixed in tools/verify.py before successful rerun."
+  },
+  "evidence_type": "engineering verification of synthetic testbed",
+  "live_model_runs": false,
+  "submission_ready": false
+}
